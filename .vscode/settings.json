@@ -1,0 +1,5 @@
+{
+  "editor.formatOnSave": true,
+  "prettier.enableDebugLogs": true,
+  "cSpell.words": ["lastpass", "signout"]
+}
